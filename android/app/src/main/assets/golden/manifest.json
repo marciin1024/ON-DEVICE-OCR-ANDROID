@@ -1,0 +1,46 @@
+{
+  "atol": 0.00392156862745098,
+  "constants": {
+    "ADAPTIVE_BLOCK_SIZE": 31,
+    "ADAPTIVE_C": 15,
+    "CHAR_MARGIN_FRAC": 0.15,
+    "SPACE_GAP_FACTOR": 1.7
+  },
+  "cases": [
+    {
+      "glyph": "glyph_0.png",
+      "tensor": "tensor_0.npy",
+      "expected_letter": "t",
+      "expected_confidence": 0.8906,
+      "tensor_checksum": 63.537254
+    },
+    {
+      "glyph": "glyph_1.png",
+      "tensor": "tensor_1.npy",
+      "expected_letter": "h",
+      "expected_confidence": 0.9961,
+      "tensor_checksum": 104.15686
+    },
+    {
+      "glyph": "glyph_2.png",
+      "tensor": "tensor_2.npy",
+      "expected_letter": "e",
+      "expected_confidence": 0.8789,
+      "tensor_checksum": 190.835297
+    },
+    {
+      "glyph": "glyph_3.png",
+      "tensor": "tensor_3.npy",
+      "expected_letter": "u",
+      "expected_confidence": 0.9961,
+      "tensor_checksum": 152.231369
+    },
+    {
+      "glyph": "glyph_4.png",
+      "tensor": "tensor_4.npy",
+      "expected_letter": "m",
+      "expected_confidence": 0.9844,
+      "tensor_checksum": 144.01178
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Phase 0 — pinned major versions (verify exact patch versions on install date)
+# Python 3.11 (venv)
+tensorflow>=2.16,<2.20
+tensorflow-datasets>=4.9
+tensorflow-metadata==1.17.2  
+importlib_resources           
+numpy<2.1
+matplotlib
+scikit-learn
+seaborn
+opencv-python
+jupyter
+jiwer            # CER computation (Phase 4/8)

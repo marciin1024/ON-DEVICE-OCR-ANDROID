@@ -1,0 +1,15 @@
+{
+  "dataset": "emnist/letters (tfds train split only; tfds test is broken)",
+  "num_classes": 26,
+  "source_total": 88800,
+  "train_fit": 71040,
+  "val": 8880,
+  "test": 8880,
+  "image_shape": [
+    28,
+    28,
+    1
+  ],
+  "label_range_raw": "1..26 (relabeled to 0..25)",
+  "note": "tfds 'test' split excluded: contains only classes a-s (t-z absent); val/test carved 10%/10% from tfds 'train'."
+}

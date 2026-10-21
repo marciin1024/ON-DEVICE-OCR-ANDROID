@@ -1,0 +1,2 @@
+tight spacing may glue letters
+watch the segmentation

@@ -1,0 +1,34 @@
+﻿# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+*.log
+ml/logs/
+
+# Models: keep only the shipped int8 model
+ml/artifacts/*.keras
+ml/artifacts/*.tflite
+!ml/artifacts/model_int8.tflite
+
+# tfds cache lives in ~/tensorflow_datasets (outside repo)
+
+# Android
+android/**/build/
+android/.gradle/
+android/.cxx/
+android/.externalNativeBuild/
+android/captures/
+android/local.properties
+android/.idea/
+*.iml
+*.apk
+*.aab
+*.keystore
+*.jks
+google-services.json
+
+# OS
+.DS_Store
+Thumbs.db

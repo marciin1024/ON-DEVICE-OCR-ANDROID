@@ -1,0 +1,165 @@
+{
+  "n_images": 26,
+  "cer_mean": 0.128,
+  "cer_median": 0.1147,
+  "cer_best": 0.0,
+  "cer_worst": 0.3488,
+  "per_image": [
+    {
+      "image": "geom_angle.jpg",
+      "cer": 0.1538,
+      "gt_len": 39,
+      "hyp_len": 40
+    },
+    {
+      "image": "geom_bent.jpg",
+      "cer": 0.0,
+      "gt_len": 39,
+      "hyp_len": 39
+    },
+    {
+      "image": "geom_blur.jpg",
+      "cer": 0.0,
+      "gt_len": 39,
+      "hyp_len": 39
+    },
+    {
+      "image": "geom_close.jpg",
+      "cer": 0.1282,
+      "gt_len": 39,
+      "hyp_len": 39
+    },
+    {
+      "image": "geom_far.jpg",
+      "cer": 0.0,
+      "gt_len": 39,
+      "hyp_len": 39
+    },
+    {
+      "image": "hand_capitals.jpg",
+      "cer": 0.1212,
+      "gt_len": 33,
+      "hyp_len": 33
+    },
+    {
+      "image": "hand_fox.jpg",
+      "cer": 0.093,
+      "gt_len": 43,
+      "hyp_len": 43
+    },
+    {
+      "image": "hand_pipeline.jpg",
+      "cer": 0.3488,
+      "gt_len": 43,
+      "hyp_len": 45
+    },
+    {
+      "image": "hand_spaced.jpg",
+      "cer": 0.3214,
+      "gt_len": 28,
+      "hyp_len": 32
+    },
+    {
+      "image": "hand_strokes.jpg",
+      "cer": 0.1818,
+      "gt_len": 33,
+      "hyp_len": 33
+    },
+    {
+      "image": "light_dim.jpg",
+      "cer": 0.2162,
+      "gt_len": 37,
+      "hyp_len": 38
+    },
+    {
+      "image": "light_shadow_horizontal.jpg",
+      "cer": 0.0541,
+      "gt_len": 37,
+      "hyp_len": 37
+    },
+    {
+      "image": "light_shadow_vertical.jpg",
+      "cer": 0.2162,
+      "gt_len": 37,
+      "hyp_len": 39
+    },
+    {
+      "image": "light_sidelamp.jpg",
+      "cer": 0.1081,
+      "gt_len": 37,
+      "hyp_len": 37
+    },
+    {
+      "image": "light_warm.jpg",
+      "cer": 0.0541,
+      "gt_len": 37,
+      "hyp_len": 37
+    },
+    {
+      "image": "print_baseline_angle.jpg",
+      "cer": 0.0256,
+      "gt_len": 39,
+      "hyp_len": 40
+    },
+    {
+      "image": "print_baseline_shadow.jpg",
+      "cer": 0.0,
+      "gt_len": 37,
+      "hyp_len": 37
+    },
+    {
+      "image": "print_mono_small.jpg",
+      "cer": 0.2812,
+      "gt_len": 96,
+      "hyp_len": 96
+    },
+    {
+      "image": "print_mono_taxi.jpg",
+      "cer": 0.1591,
+      "gt_len": 44,
+      "hyp_len": 44
+    },
+    {
+      "image": "print_sans_fox.jpg",
+      "cer": 0.0,
+      "gt_len": 43,
+      "hyp_len": 43
+    },
+    {
+      "image": "print_sans_spacing.jpg",
+      "cer": 0.0566,
+      "gt_len": 53,
+      "hyp_len": 53
+    },
+    {
+      "image": "print_sans_sunrise.jpg",
+      "cer": 0.0566,
+      "gt_len": 106,
+      "hyp_len": 104
+    },
+    {
+      "image": "print_sansbold_juice.jpg",
+      "cer": 0.0476,
+      "gt_len": 42,
+      "hyp_len": 42
+    },
+    {
+      "image": "print_serif_jazz.jpg",
+      "cer": 0.2683,
+      "gt_len": 41,
+      "hyp_len": 40
+    },
+    {
+      "image": "print_serif_voice.jpg",
+      "cer": 0.1818,
+      "gt_len": 55,
+      "hyp_len": 55
+    },
+    {
+      "image": "print_serifbold_peak.jpg",
+      "cer": 0.2553,
+      "gt_len": 47,
+      "hyp_len": 48
+    }
+  ]
+}

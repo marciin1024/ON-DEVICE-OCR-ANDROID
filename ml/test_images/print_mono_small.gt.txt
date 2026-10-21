@@ -1,0 +1,3 @@
+small text challenges the pipeline
+letters lose detail when tiny
+expect more errors on this page
